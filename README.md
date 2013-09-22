@@ -54,7 +54,10 @@ NOTE: It is highly advised to place .gitingore in the version-file-directory
 with .gitingnore content being 'VersionInfo.java'. As this file is updated 
 frequently, it may cause git issues during commit and merge.Further to avoid
 git issues ignore the *class files. 
-  
+
+[Download gbn.jar](https://github.com/alkber/GitBuildNumberGenerator/blob/master/GitBuildNumberGenerator/build/gbn.jar)
+------------------
+
 Does it make sense to gitignore VersionInfo.java ?
 -------------------------------------------------------------
 
