@@ -55,7 +55,7 @@ with .gitingnore content being 'VersionInfo.java'. As this file is updated
 frequently, it may cause git issues during commit and merge.Further to avoid
 git issues ignore the *class files. 
   
-Does it make sense to git ignore VersionInfo.java ?
+Does it make sense to gitignore VersionInfo.java ?
 -------------------------------------------------------------
 
 Yes, tool autogenerate your versionInfo.java when ever you build and what ever
