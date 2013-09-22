@@ -1,7 +1,7 @@
 GitBuildNumberGenerator
 =======================
 
-[Inspitration](http://stackoverflow.com/questions/18800062/eclipse-git-plugin-and-a-method-to-fetch-current-branch-commit-id-to-java-code)
+[Inspiration](http://stackoverflow.com/questions/18800062/eclipse-git-plugin-and-a-method-to-fetch-current-branch-commit-id-to-java-code)
 --------------
 
 About
