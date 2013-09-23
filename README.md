@@ -84,8 +84,8 @@ In eclipse, Goto Project->Properties->Builders , create a new builder
 >eg: -jar /home/myhome/bin/gbn.jar /home/myhome/git/Click2Limo/.git /home/myhome/git/Click2Limo/Click2Limo/src/com/frooday/click2limo/version/ com.frooday.click2limo.version
 
 
-In the refresh tab of new builder setting specifiy the resource ie our version source file 
-to be refeshed when ever tool is run.
+In the refresh tab of new builder setting specify the resource ie our version source file 
+to be refreshed when ever tool is run.
 
 In Build Options tab, 
 
